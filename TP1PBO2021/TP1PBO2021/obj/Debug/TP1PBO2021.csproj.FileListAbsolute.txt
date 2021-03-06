@@ -1,0 +1,11 @@
+E:\Semester 4\PBO\Praktikum\TP1PBO2021\TP1PBO2021\bin\Debug\TP1PBO2021.exe.config
+E:\Semester 4\PBO\Praktikum\TP1PBO2021\TP1PBO2021\bin\Debug\TP1PBO2021.exe
+E:\Semester 4\PBO\Praktikum\TP1PBO2021\TP1PBO2021\bin\Debug\TP1PBO2021.pdb
+E:\Semester 4\PBO\Praktikum\TP1PBO2021\TP1PBO2021\obj\Debug\TP1PBO2021.csprojAssemblyReference.cache
+E:\Semester 4\PBO\Praktikum\TP1PBO2021\TP1PBO2021\obj\Debug\TP1PBO2021.Form1.resources
+E:\Semester 4\PBO\Praktikum\TP1PBO2021\TP1PBO2021\obj\Debug\TP1PBO2021.Form2.resources
+E:\Semester 4\PBO\Praktikum\TP1PBO2021\TP1PBO2021\obj\Debug\TP1PBO2021.Properties.Resources.resources
+E:\Semester 4\PBO\Praktikum\TP1PBO2021\TP1PBO2021\obj\Debug\TP1PBO2021.csproj.GenerateResource.cache
+E:\Semester 4\PBO\Praktikum\TP1PBO2021\TP1PBO2021\obj\Debug\TP1PBO2021.csproj.CoreCompileInputs.cache
+E:\Semester 4\PBO\Praktikum\TP1PBO2021\TP1PBO2021\obj\Debug\TP1PBO2021.exe
+E:\Semester 4\PBO\Praktikum\TP1PBO2021\TP1PBO2021\obj\Debug\TP1PBO2021.pdb

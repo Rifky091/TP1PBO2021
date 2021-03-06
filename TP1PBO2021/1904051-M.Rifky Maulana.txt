@@ -1,0 +1,16 @@
+/*saya M.Rifky Maulana mengerjakan Tugas Praktikum ke-1 dalam 
+mata kuliah Desain dan Pemrograman Beroreintasi Objek untuk keberkahanNya maka
+saya tidak melakukan kecurangan seperti yang telah dispesifikasikan.Aamiin.*/
+
+Kesulitan : 
+Mengimplementasikan pencarian berdasarkan dropdown list
+
+Hal Baru yang dipelajari : 
+1. Mempelajari cara menggunaka hyperlink pada form C#
+2. Menghubungkan form
+
+Fitur yang sudah dikerjakan 
+1. login 
+2. logout
+3. Detail Barang
+4. hyper link ke e-commerce
